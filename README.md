@@ -12,8 +12,6 @@
 <div>
   <img src="https://img.shields.io/badge/Java-007396.svg?style=for-the-badge&logo=Java&logoColor=white" alt="Java" style="display:inline-block; margin-right:10px; margin-bottom:10px;" />
   <img src="https://img.shields.io/badge/Spring-6DB33F.svg?style=for-the-badge&logo=spring&logoColor=white" alt="Spring" style="display:inline-block; margin-right:10px; margin-bottom:10px;" />
-</div>
-<div>
   <img src="https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" style="display:inline-block; margin-right:10px; margin-bottom:10px;" />
   <img src="https://img.shields.io/badge/Jenkins-D24939.svg?style=for-the-badge&logo=jenkins&logoColor=white" alt="Jenkins" style="display:inline-block; margin-right:10px; margin-bottom:10px;" />
 </div>
@@ -29,8 +27,6 @@
 <div>
   <img src="https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" style="display:inline-block; margin-right:10px; margin-bottom:10px;" />
   <img src="https://img.shields.io/badge/Slack-4A154B.svg?style=for-the-badge&logo=slack&logoColor=white" alt="Slack" style="display:inline-block; margin-right:10px; margin-bottom:10px;" />
-</div>
-<div>
   <img src="https://img.shields.io/badge/Notion-000000.svg?style=for-the-badge&logo=notion&logoColor=white" alt="Notion" style="display:inline-block; margin-right:10px; margin-bottom:10px;" />
   <img src="https://img.shields.io/badge/Figma-F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" style="display:inline-block; margin-right:10px; margin-bottom:10px;" />
 </div>
