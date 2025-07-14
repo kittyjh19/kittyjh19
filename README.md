@@ -4,7 +4,7 @@
 💪 GitHub stats  
 <!-- GitHub stats 카드 예시 (본인 stats URL로 변경 필요) -->
 ![Juhee's GitHub Stats](https://github-readme-stats.vercel.app/api?kittyjh19=rlatngus1691&show_icons=true&theme=dark)
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kitityjh)](https://solved.ac/kitityjh/)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ktityjh)](https://solved.ac/ktityjh/)
 
 
 🚀 Skills
