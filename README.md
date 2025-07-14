@@ -1,13 +1,12 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=ff1493,ff69b4,ffb6c1&text=Welcome%20to%20Juhee's%20GitHub%20👋&animation=twinkling&fontSize=35&fontAlignY=40&fontAlign=70&height=250)
 
 
-💪 GitHub stats  
-<!-- GitHub stats 카드 예시 (본인 stats URL로 변경 필요) -->
-![Juhee's GitHub Stats](https://github-readme-stats.vercel.app/api?kittyjh19=rlatngus1691&show_icons=true&theme=dark)
+# 💪 GitHub stats  
+![Juhee's GitHub stats](https://github-readme-stats.vercel.app/api?username=kittyjh19&show_icons=true&theme=radical)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ktityjh)](https://solved.ac/ktityjh/)
 
 
-🚀 Skills
+# 🚀 Skills
 
 ### Back-end Technologies  
 ![Java](https://img.shields.io/badge/Java-007396.svg?style=for-the-badge&logo=Java&logoColor=white)  
@@ -27,7 +26,7 @@
 ![Eclipse IDE](https://img.shields.io/badge/Eclipse-2C2255.svg?style=for-the-badge&logo=eclipseide&logoColor=white)  
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)  
 
-📫 Contacts  
+# 📫 Contacts  
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://blog.naver.com/kittyjh19)](https://blog.naver.com/kittyjh19)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kittyjh1019@gmail.com)](mailto:kittyjh1019@gmail.com)
 [![Naver Badge](https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:kittyjh1019@naver.com)](mailto:kittyjh1019@naver.com)
