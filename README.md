@@ -1,4 +1,5 @@
 # HONG JU HEE 😉
+Backend-oriented Software Developer
 
 
 # 💪 GitHub stats  
