@@ -1,5 +1,5 @@
 # HONG JU HEE 😉
-Backend-oriented Software Developer
+Software Developer (Backend & Web)
 
 
 # 💪 GitHub stats  
@@ -9,7 +9,7 @@ Backend-oriented Software Developer
 
 # 🚀 Skills
 
-### Back-end Technologies  
+### Backend Technologies  
 <div>
   <img src="https://img.shields.io/badge/Java-007396.svg?style=for-the-badge&logo=Java&logoColor=white" alt="Java" style="display:inline-block; margin-right:10px; margin-bottom:10px;" />
   <img src="https://img.shields.io/badge/Spring-6DB33F.svg?style=for-the-badge&logo=spring&logoColor=white" alt="Spring" style="display:inline-block; margin-right:10px; margin-bottom:10px;" />
@@ -17,7 +17,7 @@ Backend-oriented Software Developer
   <img src="https://img.shields.io/badge/Jenkins-D24939.svg?style=for-the-badge&logo=jenkins&logoColor=white" alt="Jenkins" style="display:inline-block; margin-right:10px; margin-bottom:10px;" />
 </div>
 
-### Front-end Technologies  
+### Frontend Technologies  
 <div>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" style="display:inline-block; margin-right:10px; margin-bottom:10px;" />
   <img src="https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" style="display:inline-block; margin-right:10px; margin-bottom:10px;" />
